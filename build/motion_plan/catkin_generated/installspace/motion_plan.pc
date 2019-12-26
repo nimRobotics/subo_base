@@ -1,0 +1,8 @@
+prefix=/home/aakash/subo_base/install
+
+Name: motion_plan
+Description: Description of motion_plan
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/aakash/subo_base/install/lib 
+Requires: 

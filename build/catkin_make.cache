@@ -1,0 +1,2 @@
+motion_plan
+-DCATKIN_DEVEL_PREFIX=/home/aakash/subo_base/devel -DCMAKE_INSTALL_PREFIX=/home/aakash/subo_base/install -G Unix Makefiles
